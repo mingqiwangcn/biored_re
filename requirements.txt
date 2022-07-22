@@ -1,0 +1,10 @@
+transformers
+accelerate
+pandas
+numpy
+datasets
+sentencepiece
+protobuf
+spacy
+scispacy
+tensorflow-gpu
